@@ -7,13 +7,13 @@ Nesse projeto o usuário poderá colocar os próprios dados, treinar os modelos 
 
 * Linguagem: Python
 
-* Interface: CustomTkinter ou Streamlit (Ainda decidindo)
+* Interface: Streamlit
 
 * Processamento: Pandas e Scikit-Learn
 
 ## Figma 
 
-Um wireframe de alta fidelidade de como irei tentar deixar a aplicação com o CustomTkinter ou Streamlit 
+Um wireframe de alta fidelidade de como irei tentar deixar a aplicação com o Streamlit 
 
 * https://www.figma.com/proto/Wi7q6ar3v8iVv80r6HidWW/IA?node-id=5-97&p=f&t=HizvO5PcukREHtWb-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=5%3A97
   
